@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 # VPC
 output "vpc_id" {
   description = "The ID of the VPC"

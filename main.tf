@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 locals {
   max_subnet_length = max(
     length(var.private_subnets),

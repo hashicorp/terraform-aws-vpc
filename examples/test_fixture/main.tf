@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 provider "aws" {
   region = var.region
 }

@@ -1,4 +1,6 @@
 # frozen_string_literal: true
+# Copyright IBM Corp. 2017, 2020
+
 
 ruby '2.4.2'
 

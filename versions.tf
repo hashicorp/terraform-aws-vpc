@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 terraform {
   required_version = "~> 0.12.6"
 

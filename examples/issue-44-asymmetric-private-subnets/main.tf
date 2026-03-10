@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 # List of AZs and private subnets are not of equal length
 #
 # This example creates resources which are not present in all AZs.

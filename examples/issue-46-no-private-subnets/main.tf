@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 # There are no private subnets in this VPC setup.
 #
 # Github issue: https://github.com/terraform-aws-modules/terraform-aws-vpc/issues/46

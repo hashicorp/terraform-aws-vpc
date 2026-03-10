@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 # Default VPC
 output "default_vpc_id" {
   description = "The ID of the Default VPC"

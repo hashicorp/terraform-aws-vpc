@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2017, 2020
+
 variable "create_vpc" {
   description = "Controls if VPC should be created (it affects almost all resources)"
   type        = bool
